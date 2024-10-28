@@ -1,0 +1,1 @@
+    ['cactuswater']     = {['name'] = 'cactuswater',  ['label'] = 'Cactus Water', ['weight'] = 1000,	['type'] = 'item',	['image'] = 'cactuswater.png',  ['unique'] = false,	['useable'] = true,	['shouldClose'] = true,	['combinable'] = nil,	['level'] = 0,	['description'] = 'Water From A Cactus'},
